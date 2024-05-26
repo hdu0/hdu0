@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hdu0 Shenzhen, Guangdong, China
+- 👋 Hi, I’m @hdu1 Shenzhen, Guangdong, China
 - 👀 I’m interested in Artificial Intelligence, Financial Technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on RPA
